@@ -1,4 +1,5 @@
-# Testing, debugging, and profiling
+# கணினி செயல்முறை நிரகளில் வழுநீக்கம், சீர்மைப்பரிசோதனைகள்
+* இந்த நூல் ஆங்கில நூலான 'Testing, debugging, and profiling,' என்பதின் தமிழாக்கம்.
 
 Website: http://paris-swc.github.io/python-testing-debugging-profiling/
 
